@@ -1,1 +1,1 @@
-# colorgame.io
+# colorgame
