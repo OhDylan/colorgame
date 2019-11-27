@@ -1,2 +1,2 @@
 # Basic color game
-# Colt Steele Web Development Bootcamp
+Colt Steele Web Development Bootcamp
